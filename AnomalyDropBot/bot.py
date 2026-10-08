@@ -5,8 +5,8 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 
 # Токен твоего бота
 TOKEN = "8937891004:AAFK2y4E6HZ0P7UEjA4dMCyJRVYYeun32ZY"
-# Ссылка на мини-приложение (Netlify)
-WEB_APP_URL = "https://chimerical-gecko-0e0834.netlify.app/"
+# Исправленная ссылка на мини-приложение (Vercel)
+WEB_APP_URL = "https://anomalyapp.vercel.app/"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
